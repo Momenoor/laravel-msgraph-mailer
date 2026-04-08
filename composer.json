@@ -1,5 +1,5 @@
 {
-    "name": "maize-tech/laravel-msgraph-mailer",
+    "name": "momenoor/laravel-msgraph-mailer",
     "description": "Laravel mail transport driver for sending emails via Microsoft Graph API with OAuth2 authentication",
     "keywords": [
         "laravel",
@@ -11,7 +11,7 @@
         "transport",
         "azure"
     ],
-    "homepage": "https://github.com/maize-tech/laravel-msgraph-mailer",
+    "homepage": "https://github.com/momenoor/laravel-msgraph-mailer",
     "license": "MIT",
     "authors": [
         {
